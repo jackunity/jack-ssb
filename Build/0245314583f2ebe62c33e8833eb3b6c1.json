@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "SSB Clone",
+"dataUrl": "d2522d8e54fcffc5f9499a8b6cbf2f73.unityweb",
+"wasmCodeUrl": "3ec8a1637347f9754bdc778ece6fffeb.unityweb",
+"wasmFrameworkUrl": "7031dfd64fedee6da51535c17d3c13c6.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
